@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac Main.java Agent.java  Environment.java
+java Main
+rm 'Main.class' 'Environment.class' 'Pair.class' 'Agent.class' 'Main$1.class'
