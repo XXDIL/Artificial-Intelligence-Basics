@@ -1,4 +1,4 @@
-## 4 AI Cliches 
+## 4 AI Cliches (BFS)
 
 1) 8 puzzle problem
 2) Missionaries and Cannabals problem
